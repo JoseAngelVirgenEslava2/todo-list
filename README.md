@@ -77,7 +77,21 @@ los datos del usuario.
 
 En el apartado de la apariencia visual de la aplicación, se utilizaron algunos componentes
 visuales de Material Design 3 de Google, para lograr una estética moderna y atractiva
-visualmente.
+visualmente, a continuación se muestran algunas imágenes:
+
+
+- Aspecto en Figma:
+
+![interfaz en figma](imagenes/figma.png)
+
+- Interfaz principal de la aplicación ya programada:
+![interfaz principal](imagenes/home.jpeg)
+
+- Formulario para la creación de una tarea:
+![formulario](imagenes/form.jpeg)
+
+- Apartado de "Tareas pendientes" dentro de la aplicación:
+![pendientes](imagenes/pending.jpeg)
 
 
 ## Tecnologías usadas
