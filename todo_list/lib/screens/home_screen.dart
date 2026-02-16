@@ -165,22 +165,6 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
-
-  List<double> generarRango(String rango) {
-    if (rango.isNotEmpty) {
-      String inicio = rango.split("-")[0];
-      String ultimo = rango.split("-")[1];
-      double num1;
-      double num2;
-
-      num1 = double.parse(inicio.replaceAll(":", "."));
-      num2 = double.parse(ultimo.replaceAll(":", "."));
-      return [num1, num2];
-    }
-
-    return [0,0];
-  }
-
   int toMinutes(String hora) {
     final parts = hora.split(':');
     return int.parse(parts[0]) * 60 + int.parse(parts[1]);
