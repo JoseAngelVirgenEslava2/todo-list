@@ -85,13 +85,13 @@ visualmente, a continuación se muestran algunas imágenes:
 ![interfaz en figma](imagenes/figma.png)
 
 - Interfaz principal de la aplicación ya programada:
-![interfaz principal](imagenes/home.jpeg)
+![interfaz principal](imagenes/home1.jpeg)
 
 - Formulario para la creación de una tarea:
-![formulario](imagenes/form.jpeg)
+![formulario](imagenes/form1.jpeg)
 
 - Apartado de "Tareas pendientes" dentro de la aplicación:
-![pendientes](imagenes/pending.jpeg)
+![pendientes](imagenes/pending1.jpeg)
 
 
 ## Tecnologías usadas
